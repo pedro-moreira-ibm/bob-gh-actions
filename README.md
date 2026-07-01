@@ -2,7 +2,6 @@
 
 This is a tiny repository used to demonstrate automated PR review with GitHub Actions and Bob.
 
-## Run tests
+## Author
 
-```bash
-npm test
+The author of this is Pedro

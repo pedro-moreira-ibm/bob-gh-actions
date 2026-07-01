@@ -4,4 +4,4 @@ This is a tiny repository used to demonstrate automated PR review with GitHub Ac
 
 ## Author
 
-The author of this is Pedro
+The author of this is Pedro from IBM
